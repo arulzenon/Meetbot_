@@ -15,7 +15,7 @@ edge_options.add_experimental_option("prefs", { \
   })
  
 #Here you set the path of the profile ending with User Data not the profile folder
-#edge_options.add_argument(r"C:\Users\sakth\AppData\Local\Microsoft\Edge\User Data"); 
+#edge_options.add_argument(r"C:\Users\ChangerName\AppData\Local\Microsoft\Edge\User Data"); 
 
 
 
